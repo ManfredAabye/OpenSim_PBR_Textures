@@ -1,2 +1,2 @@
-# OpenSim_PBR_Textures
-OpenSim PBR Textures ------- Release --------->
+# OpenSim PBR Textures
+OpenSim PBR Textures ------------ Release ------------------->
